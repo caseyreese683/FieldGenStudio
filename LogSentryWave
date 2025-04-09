@@ -1,0 +1,23 @@
+
+---
+
+### **3. 24_LogSentryWave**  
+**Description:**  
+Log parser with burst detection, frequency heatmap, and keyword-based clustering.
+
+#### **README.md**
+```markdown
+# LogSentryWave - Pattern-Aware Log Analyzer
+
+LogSentryWave surfaces recurring log patterns and abnormal events by analyzing time and message repetition.
+
+## Features
+- Frequency and keyword scan  
+- Detects time-based bursts  
+- CLI-friendly  
+
+## Usage
+```bash
+git clone https://github.com/your-username/24_LogSentryWave.git
+cd 24_LogSentryWave
+python analyze.py
