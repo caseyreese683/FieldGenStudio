@@ -1,0 +1,23 @@
+
+---
+
+### **4. 24_ChartFlowPanel**  
+**Description:**  
+Renders a real-time, scrollable chart for visualizing incoming numerical streams.
+
+#### **README.md**
+```markdown
+# ChartFlowPanel - Realtime Numeric Stream Visualizer
+
+ChartFlowPanel makes it easy to turn metrics or simulation output into live-updating, clean visual graphs.
+
+## Features
+- Smooth line scrolling  
+- Adjustable update rate  
+- Minimalist design  
+
+## Usage
+```bash
+git clone https://github.com/your-username/24_ChartFlowPanel.git
+cd 24_ChartFlowPanel
+python visualize.py
