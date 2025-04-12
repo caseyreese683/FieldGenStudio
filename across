@@ -1,0 +1,23 @@
+
+---
+
+### **2. 24_APIMonitorRadar**  
+**Description:**  
+Scans APIs for availability, logs response codes and times in a radar-style grid.
+
+#### **README.md**
+```markdown
+# APIMonitorRadar - Real-Time API Latency Tracker
+
+APIMonitorRadar helps you track uptime and latency across multiple endpoints and export clean logs.
+
+## Features
+- Multi-endpoint batch scan  
+- Logs latency spikes + failures  
+- Export to JSON/CSV  
+
+## Usage
+```bash
+git clone https://github.com/your-username/24_APIMonitorRadar.git
+cd 24_APIMonitorRadar
+python monitor.py
